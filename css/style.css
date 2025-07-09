@@ -198,3 +198,7 @@ footer input[type="text"], input[type="email"], textarea{
     margin-bottom: 24px;
     border: none;
 }
+
+form{
+    margin-top: 20px;
+}
